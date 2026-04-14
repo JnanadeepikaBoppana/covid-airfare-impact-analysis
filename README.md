@@ -19,10 +19,10 @@ QuarterAvg FareCOVID 7-Day Avg CasesQ4 2019$391.9087 (Pre-COVID baseline)Q1 2020
 Negative correlation of -0.625 between COVID-19 case counts and airfare prices — as cases rose, fares fell significantly
 Fares never recovered to pre-COVID levels in 2020 — by Q4 2020, fares were still 24.4% below Q4 2019
 Georgia had the highest fares during peak COVID ($391 avg in Q2 2020), likely due to reduced route competition
-Internal Medicine and Emergency specialties drove the highest readmission volumes in associated healthcare data
-
 
 Tableau Dashboard
+🔗 [View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jnana.deepika.boppana8281/viz/JnanaDeepikaProject/Dashboard1)
+
 The project includes an interactive Tableau Story with 4 visualizations:
 
 Average Flight Fares in U.S. States — Geographic view of fare levels across states by quarter
